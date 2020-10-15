@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+P1=RND(20)*5280
+PRINT P1
+WAIT
